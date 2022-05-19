@@ -5,5 +5,11 @@
 - React
 - Typescript
 - Redux
+- Redux Saga
+- Redux Thunk
 - REST API
 - AWS Amplify
+- React-Bootstrap
+- TailwindCSS
+- ChakraUI
+- MaterialUI(MUI)
