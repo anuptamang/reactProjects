@@ -1,4 +1,4 @@
-## This is a monorepo for my educational react projects.
+## This is a monorepo for my react pet projects.
 
 ### Technologies Used:
 
